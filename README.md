@@ -340,4 +340,4 @@ Test that this is working. Hurrah!
 [setstate]: https://reactjs.org/docs/react-component.html#setstate
 [state]: https://reactjs.org/docs/react-component.html#state
 [event-handling]: https://reactjs.org/docs/handling-events.html
-[`class fields`]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields
+[`public class fields`]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields
